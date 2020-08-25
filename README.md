@@ -1,5 +1,6 @@
 ## ```diff
-EXTENSIONS red```
+EXTENSIONS red
+```
 
 :wrench:**Auto Close Tag**    
 :wrench:**Auto Comoplete Tag**    
