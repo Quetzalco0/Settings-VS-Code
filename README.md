@@ -23,22 +23,22 @@
 :wrench:**Debugger for Chrome**    
 :wrench:**indent-rainbow**     
  ## Settings.json
-  "workbench.colorTheme": "One Dark Pro",
-  "workbench.iconTheme": "material-icon-theme",
-  "workbench.startupEditor": "newUntitledFile",
-  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
-  "git.autofetch": true,
-  "files.autoSave": "afterDelay",
-  "editor.tabSize": 4,
-  "editor.insertSpaces": false,
-  "editor.detectIndentation": false,
-  "editor.mouseWheelZoom": true,
-  "liveServer.settings.donotShowInfoMsg": true,
-  "vscodeGoogleTranslate.preferredLanguage": "Russian",
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
-  },
-  "editor.formatOnSave": true,
-  "sync.gist": "2f66c987318eb6d61b8a9fb1e6b5d9d7"
-}
+  "workbench.colorTheme": "One Dark Pro",    
+  "workbench.iconTheme": "material-icon-theme",    
+  "workbench.startupEditor": "newUntitledFile",    
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",    
+  "git.autofetch": true,    
+  "files.autoSave": "afterDelay",    
+  "editor.tabSize": 4,    
+  "editor.insertSpaces": false,    
+  "editor.detectIndentation": false,    
+  "editor.mouseWheelZoom": true,    
+  "liveServer.settings.donotShowInfoMsg": true,    
+  "vscodeGoogleTranslate.preferredLanguage": "Russian",    
+  "editor.codeActionsOnSave": {    
+    "source.fixAll.eslint": true    
+  },    
+  "editor.formatOnSave": true,    
+  "sync.gist": "2f66c987318eb6d61b8a9fb1e6b5d9d7"    
+}    
 
