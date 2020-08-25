@@ -1,4 +1,4 @@
-## EXTENSIONS
+## ```diff EXTENSIONS```
 
 :wrench:**Auto Close Tag**    
 :wrench:**Auto Comoplete Tag**    
