@@ -23,6 +23,7 @@
 :wrench:**Debugger for Chrome**    
 :wrench:**indent-rainbow**     
  ## Settings.json
+ {    
   "workbench.colorTheme": "One Dark Pro",    
   "workbench.iconTheme": "material-icon-theme",    
   "workbench.startupEditor": "newUntitledFile",    
