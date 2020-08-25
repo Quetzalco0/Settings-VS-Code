@@ -1,6 +1,6 @@
 ## Settings-VS-Code
 
-:heavy_exclamation_mark:**Auto Close Tag**    
+:wrench:**Auto Close Tag**    
 :black_square_button:**Auto Comoplete Tag**    
 :black_square_button:**Auto Rename Tag**    
 :black_square_button:**BEM Helper**    
