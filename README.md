@@ -22,3 +22,4 @@
 :wrench:**Vscode Google Translate**    
 :wrench:**Debugger for Chrome**    
 :wrench:**indent-rainbow**     
+## Settings.json
