@@ -1,24 +1,24 @@
 ## Settings-VS-Code
 
 :wrench:**Auto Close Tag**    
-:black_square_button:**Auto Comoplete Tag**    
-:black_square_button:**Auto Rename Tag**    
-:black_square_button:**BEM Helper**    
-:black_square_button:**Better Comments**    
-:black_square_button:**Bracket Pair Colorizer**    
-:black_square_button:**CSS Navigation**    
-:black_square_button:**eCSStractor for VSCode**    
-:black_square_button:**ES7 React/Redux/GraphQL/React-Native snippets**    
-:black_square_button:**ESLint**    
-:black_square_button:**Image preview**    
-:black_square_button:**Live Server**    
-:black_square_button:**Material Icon Theme**    
-:black_square_button:**One Dark Pro**    
-:black_square_button:**Prettier - Code formatter**    
-:black_square_button:**Russian Language Pack for Visual Studio Code**    
-:black_square_button:**SCSS Formatter**    
-:black_square_button:**SCSS IntelliSense**    
-:black_square_button:**Settings Sync**    
-:black_square_button:**Vscode Google Translate**    
-:black_square_button:**Debugger for Chrome**    
-:black_square_button:**Debugger for Chrome**     
+:wrench:**Auto Comoplete Tag**    
+:wrench:**Auto Rename Tag**    
+:wrench:**BEM Helper**    
+:wrench:**Better Comments**    
+:wrench:**Bracket Pair Colorizer**    
+:wrench:**CSS Navigation**    
+:wrench:**eCSStractor for VSCode**    
+:wrench:**ES7 React/Redux/GraphQL/React-Native snippets**    
+:wrench:**ESLint**    
+:wrench:**Image preview**    
+:wrench:**Live Server**    
+:wrench:**Material Icon Theme**    
+:wrench:**One Dark Pro**    
+:wrench:**Prettier - Code formatter**    
+:wrench:**Russian Language Pack for Visual Studio Code**    
+:wrench:**SCSS Formatter**    
+:wrench:**SCSS IntelliSense**    
+:wrench:**Settings Sync**    
+:wrench:**Vscode Google Translate**    
+:wrench:**Debugger for Chrome**    
+:wrench:**indent-rainbow**     
