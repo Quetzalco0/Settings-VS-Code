@@ -1,4 +1,4 @@
-## Settings-VS-Code
+## EXTENSIONS
 
 :wrench:**Auto Close Tag**    
 :wrench:**Auto Comoplete Tag**    
