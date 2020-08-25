@@ -1,4 +1,4 @@
-## EXTENSIONS red
+## EXTENSIONS 
 :wrench:**Auto Close Tag**    
 :wrench:**Auto Comoplete Tag**    
 :wrench:**Auto Rename Tag**    
