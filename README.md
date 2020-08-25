@@ -12,7 +12,13 @@
 :black_square_button:**ESLint**    
 :black_square_button:**Image preview**    
 :black_square_button:**Live Server**    
-:black_square_button:**https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme**    
+:black_square_button:**Material Icon Theme**    
 :black_square_button:**One Dark Pro**    
 :black_square_button:**Prettier - Code formatter**    
 :black_square_button:**Russian Language Pack for Visual Studio Code**    
+:black_square_button:**SCSS Formatter**    
+:black_square_button:**SCSS IntelliSense**    
+:black_square_button:**Settings Sync**    
+:black_square_button:**Vscode Google Translate**    
+:black_square_button:**Debugger for Chrome**    
+:black_square_button:**Debugger for Chrome**     
