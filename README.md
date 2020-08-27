@@ -20,7 +20,8 @@
 :wrench:**Settings Sync**    
 :wrench:**Vscode Google Translate**    
 :wrench:**Debugger for Chrome**    
-:wrench:**indent-rainbow**     
+:wrench:**indent-rainbow**   
+:wrench:**project manager**   
  ## Settings.json
  {    
   "workbench.colorTheme": "One Dark Pro",    
