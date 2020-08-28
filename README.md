@@ -65,8 +65,8 @@
   }    
 }    
 ```
+**Файл: prettier.config.js**
 ```
-__Файл: prettier.config.js__
 module.exports = {    
   printWidth: 100,    
   singleQuote: true,    
