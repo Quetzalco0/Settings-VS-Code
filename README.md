@@ -53,7 +53,7 @@
   "author": "Adeel Imran",    
   "license": "MIT",    
   "scripts": {    
-    __"prettier": "prettier --write src/**/*.js"__    
+    `__"prettier": "prettier --write src/**/*.js"__`   
   },    
   "devDependencies": {    
     "prettier": "^1.14.3"    
