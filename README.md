@@ -82,6 +82,23 @@ yarn add --dev prettier
 1. Вручную отформатировать этот код.    
     
 2. Использовать автоматизированный инструмент.       
+    
+Я собираюсь выбрать второй вариант. Сейчас в нашем проекте есть соответствующая зависимость, и,    
+кроме того, в разделе scripts файла package.json есть запись о Prettier. Понятно, что мы воспользуемся    
+для форматирования кода именно этим инструментом. Для того чтобы это сделать, создадим файл    
+prettier.config.js в папке app и добавим туда правила для Prettier:    
+    
+```    
+module.exports = {    
+  printWidth: 100,    
+  singleQuote: true,    
+  trailingComma: 'all',    
+  bracketSpacing: true,    
+  jsxBracketSameLine: false,    
+  tabWidth: 4,    
+  semi: true,    
+};    
+```   
 ***
 **Файл: prettier.config.js**
 ```
