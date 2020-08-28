@@ -65,6 +65,7 @@
   }    
 }    
 ```
+***
 **Файл: prettier.config.js**
 ```
 module.exports = {    
