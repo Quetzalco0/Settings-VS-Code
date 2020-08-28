@@ -149,16 +149,13 @@ false, то такие конструкции будут выглядеть та
 ```   
 "prettier": "prettier  — write src/**/*.js"    
 ```    
-***
-**Файл: prettier.config.js**
-```
-module.exports = {    
-  printWidth: 100,    
-  singleQuote: true,    
-  trailingComma: 'all',    
-  bracketSpacing: true,    
-  jsxBracketSameLine: false,    
-  tabWidth: 2,    
-  semi: true,    
-};    
-```
+    
+Благодаря этой конструкции Prettier запускается и находит все .js-файлы в папке src. Флаг --write    
+указывает ему на то, чтобы он сохранял отформатированные файлы по мере их обработки и    
+исправления найденных в них ошибок форматирования.    
+    
+Запустим скрипт из командной строки:    
+    
+```    
+yarn prettier
+```    
