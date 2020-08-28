@@ -58,7 +58,7 @@ npm init -y
     
 Установим пакет prettier в качестве зависимости разработки нашего проекта:    
 ```
-**yarn add --dev prettier**    
+yarn add --dev prettier    
 ```
 ```
 {    
