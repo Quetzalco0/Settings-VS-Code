@@ -53,13 +53,13 @@
   "author": "Adeel Imran",    
   "license": "MIT",    
   "scripts": {    
-    `__"prettier": "prettier --write src/**/*.js"__`   
+    __"prettier": "prettier --write src/**/*.js"__   
   },    
   "devDependencies": {    
     "prettier": "^1.14.3"    
   }    
 }    
-module.exports = {
+```module.exports = {
   printWidth: 100,
   singleQuote: true,
   trailingComma: 'all',
@@ -67,4 +67,4 @@ module.exports = {
   jsxBracketSameLine: false,
   tabWidth: 2,
   semi: true,
-};
+};```
