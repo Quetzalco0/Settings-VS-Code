@@ -47,8 +47,9 @@
 
 ## Настройка Prettier
 
-**npm init -y**
-**yarn add --dev prettier**
+**npm init -y**    
+**yarn add --dev prettier**    
+```
 {    
   "name": "react-boiler-plate",    
   "version": "1.0.0",    
@@ -63,12 +64,14 @@
     "prettier": "^1.14.3"    
   }    
 }    
-module.exports = {
-  printWidth: 100,
-  singleQuote: true,
-  trailingComma: 'all',
-  bracketSpacing: true,
-  jsxBracketSameLine: false,
-  tabWidth: 2,
-  semi: true,
-};
+```
+
+module.exports = {    
+  printWidth: 100,    
+  singleQuote: true,    
+  trailingComma: 'all',    
+  bracketSpacing: true,    
+  jsxBracketSameLine: false,    
+  tabWidth: 2,    
+  semi: true,    
+};    
