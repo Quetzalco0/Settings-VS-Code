@@ -23,7 +23,7 @@
 :wrench:**indent-rainbow**   
 :wrench:**project manager**   
  ## Settings.json
- ```{    
+{    
   "workbench.colorTheme": "One Dark Pro",    
   "workbench.iconTheme": "material-icon-theme",    
   "workbench.startupEditor": "newUntitledFile",    
