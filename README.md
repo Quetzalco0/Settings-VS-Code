@@ -23,7 +23,7 @@
 :wrench:**indent-rainbow**   
 :wrench:**project manager**   
  ## Settings.json
- {    
+ ```{    
   "workbench.colorTheme": "One Dark Pro",    
   "workbench.iconTheme": "material-icon-theme",    
   "workbench.startupEditor": "newUntitledFile",    
@@ -41,7 +41,7 @@
   },    
   "editor.formatOnSave": true,    
   "sync.gist": "2f66c987318eb6d61b8a9fb1e6b5d9d7"    
-}    
+}    ```
 ## Настройка Prettier
 **npm init -y**
 **yarn add --dev prettier**
@@ -59,7 +59,7 @@
     "prettier": "^1.14.3"    
   }    
 }    
-```module.exports = {
+module.exports = {
   printWidth: 100,
   singleQuote: true,
   trailingComma: 'all',
@@ -67,4 +67,4 @@
   jsxBracketSameLine: false,
   tabWidth: 2,
   semi: true,
-};```
+};
