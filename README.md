@@ -41,7 +41,7 @@
   },    
   "editor.formatOnSave": true,    
   "sync.gist": "2f66c987318eb6d61b8a9fb1e6b5d9d7"    
-}```    
+}
 
 ## Настройка Prettier
 
