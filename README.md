@@ -42,23 +42,23 @@
   "editor.formatOnSave": true,    
   "sync.gist": "2f66c987318eb6d61b8a9fb1e6b5d9d7"    
 }    
-##### Настройка Prettier
+## Настройка Prettier
 **npm init -y**
 **yarn add --dev prettier**
-{
-  "name": "react-boiler-plate",
-  "version": "1.0.0",
-  "description": "A react boiler plate",
-  "main": "src/index.js",
-  "author": "Adeel Imran",
-  "license": "MIT",
-  "scripts": {
-    "prettier": "prettier --write src/**/*.js"
-  },
-  "devDependencies": {
-    "prettier": "^1.14.3"
-  }
-}
+{    
+  "name": "react-boiler-plate",    
+  "version": "1.0.0",    
+  "description": "A react boiler plate",    
+  "main": "src/index.js",    
+  "author": "Adeel Imran",    
+  "license": "MIT",    
+  "scripts": {    
+    **"prettier": "prettier --write src/**/*.js"**    
+  },    
+  "devDependencies": {    
+    "prettier": "^1.14.3"    
+  }    
+}    
 module.exports = {
   printWidth: 100,
   singleQuote: true,
